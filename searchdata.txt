@@ -4697,3 +4697,584 @@ Mentor
 Optimize
 Personalize
 Quantify
+Google
+YouTube
+Facebook
+Amazon
+Wikipedia
+Twitter
+Instagram
+Reddit
+Netflix
+LinkedIn
+WhatsApp
+Pinterest
+eBay
+Spotify
+IMDb
+Twitch
+Microsoft
+Apple
+TikTok
+Snapchat
+Gmail
+Yahoo
+Dropbox
+Adobe
+Slack
+Zoom
+Airbnb
+Uber
+Lyft
+PayPal
+Skype
+Tumblr
+Medium
+Quora
+Discord
+Yelp
+Vimeo
+SoundCloud
+GitHub
+WordPress
+Blogger
+Flickr
+Evernote
+Quicken
+Flipboard
+Duolingo
+Coursera
+Udemy
+Khan Academy
+Stack Overflow
+Steam
+Twitch
+Hulu
+Microsoft Office 365
+Apple Music
+Google Drive
+Google Maps
+Adobe Creative Cloud
+Microsoft Teams
+Microsoft Outlook
+Grammarly
+LastPass
+Snapchat
+WhatsApp
+Telegram
+Signal
+Viber
+WeChat
+Line
+Kik
+Discord
+Signal
+Evernote
+Dropbox
+Google Keep
+Trello
+Asana
+Todoist
+Microsoft To Do
+Pocket
+Canva
+PicMonkey
+Adobe Photoshop
+Adobe Illustrator
+Adobe Lightroom
+Figma
+Sketch
+Procreate
+InVision
+Wix
+Squarespace
+Shopify
+WordPress
+Blogger
+Tumblr
+Medium
+Ghost
+Substack
+Mailchimp
+Constant Contact
+HubSpot
+Salesforce
+Slack
+Discord
+Microsoft Teams
+Zoom
+Skype
+Google Meet
+GoToMeeting
+Webex
+Slack
+Trello
+Asana
+Monday.com
+Notion
+Evernote
+OneNote
+Google Keep
+Pocket
+Instapaper
+Feedly
+Flipboard
+Digg
+Reddit
+Hacker News
+Quora
+Stack Overflow
+GitHub
+GitLab
+Bitbucket
+Trello
+Jira
+Basecamp
+Zoho Projects
+Microsoft Project
+Todoist
+Any.do
+Microsoft To Do
+Habitica
+Toggl
+RescueTime
+Forest
+Freedom
+Cold Turkey
+Pomodone
+Focus@Will
+Headspace
+Calm
+Insight Timer
+10% Happier
+Simple Habit
+Shine
+Happify
+Daylio
+Journey
+Penzu
+Momento
+Grid Diary
+Diaro
+Flora
+Plant Nanny
+Waterlogged
+MyFitnessPal
+Lose It!
+Cronometer
+Fooducate
+Yummly
+Tasty
+Allrecipes
+Epicurious
+BBC Good Food
+Cookpad
+Supercook
+Pepperplate
+Paprika
+Trello
+Airtable
+Coda
+Smartsheet
+Google Sheets
+Microsoft Excel
+Zoho Sheet
+Quip
+Wrike
+Notion
+Evernote
+Microsoft OneNote
+Bear
+Simplenote
+Standard Notes
+Joplin
+Google Docs
+Microsoft Word
+Zoho Writer
+Quip
+Grammarly
+Hemingway Editor
+ProWritingAid
+Scrivener
+Ulysses
+Apple Inc.
+Google (Alphabet Inc.)
+Amazon.com Inc.
+Microsoft Corporation
+Facebook (Meta Platforms, Inc.)
+Tesla, Inc.
+Netflix, Inc.
+Samsung Electronics Co., Ltd.
+Walmart Inc.
+Toyota Motor Corporation
+General Electric Company
+Coca-Cola Company
+Nike, Inc.
+PepsiCo, Inc.
+IBM (International Business Machines Corporation)
+Intel Corporation
+McDonald's Corporation
+Procter & Gamble Company
+Johnson & Johnson
+Visa Inc.
+Mastercard Incorporated
+JPMorgan Chase & Co.
+Goldman Sachs Group, Inc.
+Berkshire Hathaway Inc.
+Exxon Mobil Corporation
+Chevron Corporation
+General Motors Company
+Ford Motor Company
+The Walt Disney Company
+AT&T Inc.
+Verizon Communications Inc.
+Pfizer Inc.
+Merck & Co., Inc.
+Boeing Company
+Airbus SE
+SpaceX
+Uber Technologies, Inc.
+Airbnb, Inc.
+Twitter, Inc.
+Snap Inc.
+Dropbox, Inc.
+Spotify Technology S.A.
+Zoom Video Communications, Inc.
+Slack Technologies, Inc.
+Pinterest, Inc.
+LinkedIn (Microsoft Corporation)
+Salesforce.com, Inc.
+Adobe Inc.
+Oracle Corporation
+SAP SE
+James
+John
+Robert
+Michael
+William
+David
+Joseph
+Charles
+Thomas
+Richard
+Daniel
+Matthew
+Christopher
+George
+Edward
+Brian
+Kevin
+Ronald
+Timothy
+Steven
+Mary
+Patricia
+Jennifer
+Linda
+Elizabeth
+Barbara
+Susan
+Jessica
+Sarah
+Karen
+Nancy
+Margaret
+Lisa
+Betty
+Dorothy
+Sandra
+Ashley
+Kimberly
+Donna
+Emily
+Priya
+Aarti
+Pooja
+Neha
+Divya
+Sunita
+Anjali
+Nisha
+Deepika
+Sonali
+Ananya
+Swati
+Kavita
+Ritu
+Roshni
+Meera
+Jyoti
+Shreya
+Sneha
+Tanvi
+Arjun
+Aarav
+Aryan
+Rohan
+Aditya
+Vikram
+Raj
+Rahul
+Siddharth
+Akshay
+Aniket
+Pranav
+Yuvraj
+Ravi
+Karthik
+Harish
+Abhinav
+Varun
+Ajay
+Vijay
+Shekh
+Sheikh
+Saheb
+Ali
+Rajesh
+Thapa
+Sita
+Sharma
+Dipesh
+Acharya
+Nirmala
+Rai
+Prakash
+Shrestha
+Anju
+Khadka
+Binod
+Joshi
+Rekha
+Koirala
+Santosh
+Maharjan
+Manisha
+Bhattarai
+Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Antigua and Barbuda
+Argentina
+Armenia
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cabo Verde
+Cambodia
+Cameroon
+Canada
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo, Democratic Republic of the
+Congo, Republic of the
+Costa Rica
+Cote d'Ivoire
+Croatia
+Cuba
+Cyprus
+Czech Republic (Czechia)
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Timor (Timor-Leste)
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Fiji
+Finland
+France
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea, North
+Korea, South
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Macedonia (Macedonia)
+Norway
+Oman
+Pakistan
+Palau
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint Kitts and Nevis
+Saint Lucia
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+Africa
+Antarctica
+Asia
+Europe
+North
+America
+North America
+South America
+South
+America
+Christianity
+Islam
+Muslim
+Hinduism
+Sanatni
+Buddhism
+Sikhism
+Judaism
+Jainism
+Bahá'í Faith
+Shinto
+Taoism
+Zoroastrianism
+Wicca
+Druidry
+Animism
+Shamanism
+Agnosticism
+Rastafarianism
+Scientology
+Australia
