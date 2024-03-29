@@ -5844,6 +5844,6 @@ jump
 kick
 laugh
 move
-URL Shortener (https://ssabox.blogspot.com/2024/03/url-shortener.html)
-Icon Library (https://ssabox.blogspot.com/2023/10/ssabox-icon-library.html)
-Color Generator (https://ssabox.blogspot.com/2023/07/color-token-generator.html)
+URL Shortener ssabox.blogspot.com/2024/03/url-shortener.html
+Icon Library ssabox.blogspot.com/2023/10/ssabox-icon-library.html
+Color Generator ssabox.blogspot.com/2023/07/color-token-generator.html
