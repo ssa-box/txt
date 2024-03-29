@@ -5311,3 +5311,4 @@ Dashboard
 SSA
 SSATools
 Tool
+Collage
