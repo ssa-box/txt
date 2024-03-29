@@ -5278,3 +5278,31 @@ Agnosticism
 Rastafarianism
 Scientology
 Australia
+Chinese
+New
+Year
+Diwali
+Eid al-Fitr
+Christmas
+Hanukkah
+Holi
+Easter
+Navaratri
+Thanksgiving
+Durga 
+Puja
+Vesak
+Bonfire Night
+Carnival
+Oktoberfest
+Songkran
+Ramadan
+Gudi Padwa
+Lohri
+Pongal
+Kwanzaa
+Lunar New Year (Tết)
+Rosh Hashanah
+Yom Kippur
+Passover
+Eid al-Adha
