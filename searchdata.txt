@@ -5436,306 +5436,306 @@ Visual Basic .NET
 XML (Markup language)
 XQuery
 XPath
-abs()
-acos()
-acosh()
-addEventListener()
-aggregate()
-alert()
-all()
-anchor()
-animationFrame()
-animationStart()
-animationend()
-animationiteration()
-append()
-appendChild()
-apply()
-arc()
-arccos()
-arcsin()
-arcsinh()
-arctan()
-arctan2()
-arctanh()
-array()
-asin()
-asinh()
-assert()
-assign()
-atan()
-atan2()
-atanh()
-attributes()
-back()
-base()
-before()
-beginPath()
-bezierCurveTo()
-bind()
-binarySearch()
-blur()
-bold()
-border()
-break()
-byteLength()
-call()
-callee()
-caller()
-cancelAnimationFrame()
-cancelIdleCallback()
-canvasToBlob()
-ceil()
-charAt()
-charCodeAt()
-clearInterval()
-clearTimeout()
-click()
-client()
-clone()
-close()
-closed()
-colorDepth()
-column()
-columnEnd()
-columnGap()
-columnRule()
-columnRuleColor()
-columnRuleStyle()
-columnRuleWidth()
-columnSpan()
-columnStart()
-columnWidth()
-columns()
-concat()
-confirm()
-constructor()
-contains()
-content()
-continue()
-control()
-coords()
-cos()
-cosh()
-count()
-createAttribute()
-createComment()
-createDocumentFragment()
-createElement()
-createEvent()
-createNodeIterator()
-createRange()
-createTextNode()
-createTouch()
-createTouchList()
-crypto()
-cssText()
-cursor()
-data()
-dataset()
-date()
-dateTime()
-dblclick()
-declare()
-decodeURI()
-decodeURIComponent()
-defaultStatus()
-defer()
-delete()
-delta()
-description()
-detachEvent()
-devicePixelRatio()
-dir()
-direction()
-dirname()
-disabled()
-dispatchEvent()
-display()
-div()
-do()
-document()
-documentElement()
-doesURLExist()
-domain()
-download()
-drag()
-drawFocusIfNeeded()
-dump()
-echo()
-else()
-elementFromPoint()
-elements()
-embed()
-empty()
-encodeURI()
-encodeURIComponent()
-end()
-endsWith()
-entries()
-error()
-escape()
-eval()
-event()
-exec()
-exit()
-exp()
-expm1()
-extend()
-fetch()
-field()
-fill()
-filter()
-finalize()
-find()
-findIndex()
-findNode()
-focus()
-focusin()
-focusout()
-font()
-forEach()
-fromCharCode()
-fromCodePoint()
-fullscreen()
-fullscreenElement()
-fullscreenEnabled()
-func()
-function()
-get()
-getAttribute()
-getBoundingClientRect()
-getComputedStyle()
-getContext()
-getDate()
-getDay()
-getFullYear()
-getHours()
-getMilliseconds()
-getMinutes()
-getMonth()
-getOwnPropertyDescriptor()
-getOwnPropertyDescriptors()
-getOwnPropertyNames()
-getOwnPropertySymbols()
-getPrototypeOf()
-getTime()
-getTimezoneOffset()
-getUTCDate()
-getUTCDay()
-getUTCFullYear()
-getUTCHours()
-getUTCMilliseconds()
-getUTCMinutes()
-getUTCMonth()
-getUTCSeconds()
-getYear()
-globalThis()
-go()
-group()
-has()
-hasAttribute()
-hasAttributes()
-hasChildNodes()
-hasOwnProperty()
-header()
-headers()
-height()
-href()
-i()
-id()
-if()
-iframe()
-ignoreCase()
-imagemap()
-importNode()
-in()
-includes()
-index()
-indexOf()
-info()
-inherits()
-initCustomEvent()
-initEvent()
-initMouseEvent()
-initUIEvent()
-innerHTML()
-input()
-insertAdjacentHTML()
-insertAdjacentElement()
-insertBefore()
-insertCell()
-insertData()
-insertRow()
-is()
-isArray()
-isCollapsed()
-isContentEditable()
-isDefaultNamespace()
-isEqualNode()
-isExtensible()
-isFinite()
-isInteger()
-isNaN()
-isPrototypeOf()
-isSameNode()
-isSecureContext()
-isSupported()
-isTrusted()
-item()
-itemScope()
-itemType()
-join()
-kbd()
-key()
-keyCode()
-label()
-lang()
-lastChild()
-lastIndexOf()
-length()
-letter-spacing()
-line-height()
-link()
-list()
-load()
-localStorage()
-location()
-log()
-longdesc()
-map()
-match()
-max()
-message()
-metadata()
-method()
-min()
-minDate()
-milliseconds()
-mimeTypes()
-min()
-module()
-move()
-moveBy()
-moveTo()
-name()
-navigator()
-nested()
-new()
-next()
-nextSibling()
-nextElementSibling()
-nextNode()
-nodeList()
-nodeName()
-nodeType()
-nodeValue()
-now()
-nowrap()
-nth-child()
-nth-of-type()
-null()
-number()
+abs() in js
+acos() in js
+acosh() in js
+addEventListener() in js
+aggregate() in js
+alert() in js
+all() in js
+anchor() in js
+animationFrame() in js
+animationStart() in js
+animationend() in js
+animationiteration() in js
+append() in js
+appendChild() in js
+apply() in js
+arc() in js
+arccos() in js
+arcsin() in js
+arcsinh() in js
+arctan() in js
+arctan2() in js
+arctanh() in js
+array() in js
+asin() in js
+asinh() in js
+assert() in js
+assign() in js
+atan() in js
+atan2() in js
+atanh() in js
+attributes() in js
+back() in js
+base() in js
+before() in js
+beginPath() in js
+bezierCurveTo() in js
+bind() in js
+binarySearch() in js
+blur() in js
+bold() in js
+border() in js
+break() in js
+byteLength() in js
+call() in js
+callee() in js
+caller() in js
+cancelAnimationFrame() in js
+cancelIdleCallback() in js
+canvasToBlob() in js
+ceil() in js
+charAt() in js
+charCodeAt() in js
+clearInterval() in js
+clearTimeout() in js
+click() in js
+client() in js
+clone() in js
+close() in js
+closed() in js
+colorDepth() in js
+column() in js
+columnEnd() in js
+columnGap() in js
+columnRule() in js
+columnRuleColor() in js
+columnRuleStyle() in js
+columnRuleWidth() in js
+columnSpan() in js
+columnStart() in js
+columnWidth() in js
+columns() in js
+concat() in js
+confirm() in js
+constructor() in js
+contains() in js
+content() in js
+continue() in js
+control() in js
+coords() in js
+cos() in js
+cosh() in js
+count() in js
+createAttribute() in js
+createComment() in js
+createDocumentFragment() in js
+createElement() in js
+createEvent() in js
+createNodeIterator() in js
+createRange() in js
+createTextNode() in js
+createTouch() in js
+createTouchList() in js
+crypto() in js
+cssText() in js
+cursor() in js
+data() in js
+dataset() in js
+date() in js
+dateTime() in js
+dblclick() in js
+declare() in js
+decodeURI() in js
+decodeURIComponent()  in js
+defaultStatus() in js
+defer() in js
+delete() in js
+delta() in js
+description() in js
+detachEvent() in js
+devicePixelRatio() in js
+dir() in js
+direction() in js
+dirname() in js
+disabled() in js
+dispatchEvent() in js
+display() in js
+div() in js
+do() in js
+document() in js
+documentElement() in js
+doesURLExist() in js
+domain() in js
+download() in js
+drag() in js
+drawFocusIfNeeded() in js
+dump() in js
+echo() in js
+else() in js
+elementFromPoint() in js
+elements() in js
+embed() in js
+empty() in js
+encodeURI() in js
+encodeURIComponent() in js
+end() in js
+endsWith() in js
+entries() in js
+error() in js
+escape() in js
+eval() in js
+event() in js
+exec() in js
+exit() in js
+exp() in js
+expm1() in js
+extend() in js
+fetch() in js
+field() in js
+fill() in js
+filter() in js
+finalize() in js
+find() in js
+findIndex() in js
+findNode() in js
+focus() in js
+focusin() in js
+focusout() in js
+font() in js
+forEach() in js
+fromCharCode() in js
+fromCodePoint() in js
+fullscreen() in js
+fullscreenElement() in js
+fullscreenEnabled() in js
+func() in js
+function() in js
+get() in js
+getAttribute() in js
+getBoundingClientRect() in js
+getComputedStyle() in js
+getContext() in js
+getDate() in js
+getDay() in js
+getFullYear() in js
+getHours() in js
+getMilliseconds() in js
+getMinutes() in js
+getMonth() in js
+getOwnPropertyDescriptor()  in js
+getOwnPropertyDescriptors()  in js
+getOwnPropertyNames()  in js
+getOwnPropertySymbols()  in js
+getPrototypeOf()  in js
+getTime()  in js
+getTimezoneOffset()  in js
+getUTCDate() in js
+getUTCDay() in js
+getUTCFullYear() in js
+getUTCHours() in js
+getUTCMilliseconds() in js
+getUTCMinutes() in js
+getUTCMonth() in js
+getUTCSeconds() in js
+getYear() in js
+globalThis() in js
+go() in js
+group() in js
+has() in js
+hasAttribute() in js
+hasAttributes() in js
+hasChildNodes() in js
+hasOwnProperty() in js
+header() in js
+headers() in js
+height() in js
+href() in js
+i() in js
+id() in js
+if() in js
+iframe() in js
+ignoreCase() in js
+imagemap() in js
+importNode() in js
+in() in js
+includes() in js
+index() in js
+indexOf() in js
+info() in js
+inherits() in js
+initCustomEvent() in js
+initEvent() in js
+initMouseEvent() in js
+initUIEvent() in js
+innerHTML() in js
+input() in js
+insertAdjacentHTML()  in js
+insertAdjacentElement() in js
+insertBefore() in js
+insertCell() in js
+insertData() in js
+insertRow() in js
+is() in js
+isArray() in js
+isCollapsed() in js
+isContentEditable() in js
+isDefaultNamespace() in js
+isEqualNode() in js
+isExtensible() in js
+isFinite() in js
+isInteger() in js
+isNaN() in js
+isPrototypeOf() in js
+isSameNode() in js
+isSecureContext() in js
+isSupported() in js
+isTrusted() in js
+item() in js
+itemScope() in js
+itemType() in js
+join() in js
+kbd() in js
+key() in js
+keyCode() in js
+label() in js
+lang() in js
+lastChild() in js
+lastIndexOf() in js
+length() in js
+letter-spacing() in js
+line-height() in js
+link() in js
+list() in js
+load() in js
+localStorage() in js
+location() in js
+log() in js
+longdesc() in js
+map() in js
+match() in js
+max() in js
+message() in js
+metadata() in js
+method() in js
+min() in js
+minDate() in js
+milliseconds() in js
+mimeTypes() in js
+min() in js
+module() in js
+move() in js
+moveBy() in js
+moveTo() in js
+name() in js
+navigator() in js
+nested() in js
+new() in js
+next() in js
+nextSibling() in js
+nextElementSibling() in js
+nextNode() in js
+nodeList() in js
+nodeName() in js
+nodeType() in js
+nodeValue() in js
+now() in js
+nowrap() in js
+nth-child() in js
+nth-of-type() in js
+null() in js
+number() in js
 html
 head
 title
